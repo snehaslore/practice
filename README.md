@@ -1,11 +1,16 @@
-A tiny Python project to track daily tasks and build a streak.
+# Git Practice
 
-# How it works
-- Run `streak.py`
-- Input if you completed your task today
-- The program saves your streak count in a file
+This repository is used to practice Git and GitHub fundamentals.
 
-# Skills learned
-- Python basics (input, print, if/else)
-- File handling (read/write)
-- Simple logic for streak tracking
+## What I am learning
+- Creating and managing repositories
+- Committing and pushing changes
+- Working with branches
+- Writing clean commit messages
+
+## Daily Progress
+- Day 1: Created first repository and learned basic Git commands
+- Day 2: Practiced committing and pushing changes
+- Day 3: Understood Git vs GitHub
+- Day 4: Worked on contribution consistency
+- Day 5: Learned branching and merging
